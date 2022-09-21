@@ -1,0 +1,12 @@
+﻿{
+"app_id": "wxb80fb80c593c3734",
+"app_secret": "2c1fe047d2eabcd956638c5ca79f07c7",
+"template_id": "Z9KK4EDALdLdRTon5souB9tkPCRh3aCeKI288bn9hjI",
+"user": ["o5hjX6Kf7CdU4QKtVI9CvaGHOs9c"],
+
+"weather_key": "2313dd226f0045d3891fb4d1722913d2",
+"tian_api": "18e63db5528302760f01c4cc4b76c568",
+"region": "郑州市",
+
+"note_ch": "此行山高又水远，你口袋是我最后一片玫瑰",
+}
